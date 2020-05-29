@@ -1,0 +1,7 @@
+C:\Codecool\jobhunt\Cracking The Codeing Interview\CTCI_solutions\CTCI_solutions\bin\Debug\CTCI_solutions.exe.config
+C:\Codecool\jobhunt\Cracking The Codeing Interview\CTCI_solutions\CTCI_solutions\bin\Debug\CTCI_solutions.exe
+C:\Codecool\jobhunt\Cracking The Codeing Interview\CTCI_solutions\CTCI_solutions\bin\Debug\CTCI_solutions.pdb
+C:\Codecool\jobhunt\Cracking The Codeing Interview\CTCI_solutions\CTCI_solutions\obj\Debug\CTCI_solutions.csprojAssemblyReference.cache
+C:\Codecool\jobhunt\Cracking The Codeing Interview\CTCI_solutions\CTCI_solutions\obj\Debug\CTCI_solutions.csproj.CoreCompileInputs.cache
+C:\Codecool\jobhunt\Cracking The Codeing Interview\CTCI_solutions\CTCI_solutions\obj\Debug\CTCI_solutions.exe
+C:\Codecool\jobhunt\Cracking The Codeing Interview\CTCI_solutions\CTCI_solutions\obj\Debug\CTCI_solutions.pdb
